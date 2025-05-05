@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <!-- Enhanced Saudi Vision 2030 illustration -->
+  
+  <!-- Background with luxury gradient -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d3d30;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#165F4C;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Gold gradient for accent elements -->
+    <linearGradient id="gold-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4a017;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e3a642;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Glow filter for special elements -->
+    <filter id="soft-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- Main background -->
+  <rect x="0" y="0" width="800" height="400" fill="url(#bg-gradient)" />
+  
+  <!-- Subtle geometric pattern representing Islamic art -->
+  <g opacity="0.08">
+    <path d="M0,100 L800,100" stroke="#FFFFFF" stroke-width="1" />
+    <path d="M0,200 L800,200" stroke="#FFFFFF" stroke-width="1" />
+    <path d="M0,300 L800,300" stroke="#FFFFFF" stroke-width="1" />
+    
+    <path d="M100,0 L100,400" stroke="#FFFFFF" stroke-width="1" />
+    <path d="M200,0 L200,400" stroke="#FFFFFF" stroke-width="1" />
+    <path d="M300,0 L300,400" stroke="#FFFFFF" stroke-width="1" />
+    <path d="M400,0 L400,400" stroke="#FFFFFF" stroke-width="1" />
+    <path d="M500,0 L500,400" stroke="#FFFFFF" stroke-width="1" />
+    <path d="M600,0 L600,400" stroke="#FFFFFF" stroke-width="1" />
+    <path d="M700,0 L700,400" stroke="#FFFFFF" stroke-width="1" />
+  </g>
+  
+  <!-- Decorative curved lines representing progress and growth -->
+  <path d="M0,350 C266,300 534,350 800,250" stroke="#05B583" stroke-width="1" fill="none" opacity="0.3" />
+  <path d="M0,300 C266,250 534,300 800,200" stroke="#05B583" stroke-width="1" fill="none" opacity="0.3" />
+  <path d="M0,250 C266,200 534,250 800,150" stroke="#05B583" stroke-width="1" fill="none" opacity="0.3" />
+  
+  <!-- Main Vision 2030 Emblem -->
+  <g transform="translate(400, 200)">
+    <!-- Outer circle with golden accent -->
+    <circle cx="0" cy="0" r="120" fill="none" stroke="url(#gold-gradient)" stroke-width="3" opacity="0.9" />
+    <circle cx="0" cy="0" r="110" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.3" />
+    <circle cx="0" cy="0" r="100" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.3" />
+    
+    <!-- Directional indicators representing progress -->
+    <g opacity="0.8">
+      <line x1="0" y1="-120" x2="0" y2="-140" stroke="url(#gold-gradient)" stroke-width="3" />
+      <line x1="84.85" y1="-84.85" x2="98.99" y2="-98.99" stroke="url(#gold-gradient)" stroke-width="3" />
+      <line x1="120" y1="0" x2="140" y2="0" stroke="url(#gold-gradient)" stroke-width="3" />
+      <line x1="84.85" y1="84.85" x2="98.99" y2="98.99" stroke="url(#gold-gradient)" stroke-width="3" />
+      <line x1="0" y1="120" x2="0" y2="140" stroke="url(#gold-gradient)" stroke-width="3" />
+      <line x1="-84.85" y1="84.85" x2="-98.99" y2="98.99" stroke="url(#gold-gradient)" stroke-width="3" />
+      <line x1="-120" y1="0" x2="-140" y2="0" stroke="url(#gold-gradient)" stroke-width="3" />
+      <line x1="-84.85" y1="-84.85" x2="-98.99" y2="-98.99" stroke="url(#gold-gradient)" stroke-width="3" />
+    </g>
+    
+    <!-- Inner circle with faint glow -->
+    <circle cx="0" cy="0" r="80" fill="rgba(5, 181, 131, 0.1)" filter="url(#soft-glow)" />
+    
+    <!-- 2030 text in modern elegant style -->
+    <text x="0" y="15" font-family="Tajawal, Arial, sans-serif" font-size="48" text-anchor="middle" fill="#FFFFFF" font-weight="bold">2030</text>
+    
+    <!-- Stylized Palm Tree - Saudi symbol -->
+    <g transform="translate(0, -35) scale(0.5)">
+      <path d="M0,0 L0,50" stroke="#05B583" stroke-width="8" />
+      <path d="M0,-15 C20,-35 40,-25 50,-5" stroke="#05B583" stroke-width="3" />
+      <path d="M0,-15 C-20,-35 -40,-25 -50,-5" stroke="#05B583" stroke-width="3" />
+      <path d="M0,-5 C15,-20 30,-15 40,-5" stroke="#05B583" stroke-width="3" />
+      <path d="M0,-5 C-15,-20 -30,-15 -40,-5" stroke="#05B583" stroke-width="3" />
+    </g>
+  </g>
+  
+  <!-- Digital transformation elements on either side -->
+  <g transform="translate(200, 200)">
+    <!-- Modern city silhouette representing Saudi smart cities -->
+    <path d="M-100,100 L-100,50 L-90,50 L-90,70 L-80,70 L-80,20 L-70,20 L-70,60 L-60,60 L-60,10 
+             L-50,10 L-50,40 L-40,40 L-40,-10 L-30,-10 L-30,30 L-20,30 L-20,0 L-10,0 L-10,-20 
+             L0,-20 L0,100 Z" 
+          fill="#05B583" opacity="0.7" />
+    
+    <!-- Digital nodes -->
+    <circle cx="-90" cy="30" r="4" fill="url(#gold-gradient)" />
+    <circle cx="-60" cy="40" r="4" fill="url(#gold-gradient)" />
+    <circle cx="-30" cy="10" r="4" fill="url(#gold-gradient)" />
+    
+    <!-- Connection lines -->
+    <line x1="-90" y1="30" x2="-60" y2="40" stroke="url(#gold-gradient)" stroke-width="1" opacity="0.8" />
+    <line x1="-60" y1="40" x2="-30" y2="10" stroke="url(#gold-gradient)" stroke-width="1" opacity="0.8" />
+  </g>
+  
+  <g transform="translate(600, 200)">
+    <!-- Iconic Saudi buildings silhouette -->
+    <path d="M0,100 L0,-40 L10,-40 L10,0 L20,0 L20,-20 L30,-20 L30,-50 L40,-50 L40,20 L50,20 L50,-10 
+             L60,-10 L60,-30 L70,-30 L70,10 L80,10 L80,-60 L90,-60 L90,40 L100,40 L100,100 Z" 
+          fill="#05B583" opacity="0.7" />
+    
+    <!-- Digital nodes -->
+    <circle cx="20" cy="-10" r="4" fill="url(#gold-gradient)" />
+    <circle cx="50" cy="0" r="4" fill="url(#gold-gradient)" />
+    <circle cx="80" cy="-20" r="4" fill="url(#gold-gradient)" />
+    
+    <!-- Connection lines -->
+    <line x1="20" y1="-10" x2="50" y2="0" stroke="url(#gold-gradient)" stroke-width="1" opacity="0.8" />
+    <line x1="50" y1="0" x2="80" y2="-20" stroke="url(#gold-gradient)" stroke-width="1" opacity="0.8" />
+  </g>
+  
+  <!-- Connecting data lines across the design -->
+  <path d="M200,200 C300,150 400,250 500,180 L600,200" stroke="#05B583" stroke-width="1.5" fill="none" opacity="0.6" />
+  <path d="M200,180 C300,220 400,150 500,220 L600,180" stroke="url(#gold-gradient)" stroke-width="1" fill="none" opacity="0.4" />
+</svg>

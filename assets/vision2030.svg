@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <!-- Saudi Vision 2030 illustration with digital elements -->
+  
+  <!-- Background with subtle pattern -->
+  <rect x="0" y="0" width="600" height="400" fill="#165F4C" />
+  <g opacity="0.05">
+    <rect x="0" y="0" width="600" height="400" fill="#FFFFFF" />
+    <path d="M0,0 L600,400 M600,0 L0,400" stroke="#FFFFFF" stroke-width="2" />
+    <path d="M0,200 L600,200 M300,0 L300,400" stroke="#FFFFFF" stroke-width="2" />
+  </g>
+  
+  <!-- Vision 2030 logo stylized -->
+  <g transform="translate(300, 150)">
+    <!-- Central emblem representing Saudi Vision 2030 -->
+    <circle cx="0" cy="0" r="80" fill="none" stroke="#E3A642" stroke-width="3" />
+    <circle cx="0" cy="0" r="70" fill="none" stroke="#FFFFFF" stroke-width="1" />
+    
+    <!-- Rays representing future vision -->
+    <g>
+      <line x1="0" y1="-80" x2="0" y2="-100" stroke="#E3A642" stroke-width="2" />
+      <line x1="56.57" y1="-56.57" x2="70.71" y2="-70.71" stroke="#E3A642" stroke-width="2" />
+      <line x1="80" y1="0" x2="100" y2="0" stroke="#E3A642" stroke-width="2" />
+      <line x1="56.57" y1="56.57" x2="70.71" y2="70.71" stroke="#E3A642" stroke-width="2" />
+      <line x1="0" y1="80" x2="0" y2="100" stroke="#E3A642" stroke-width="2" />
+      <line x1="-56.57" y1="56.57" x2="-70.71" y2="70.71" stroke="#E3A642" stroke-width="2" />
+      <line x1="-80" y1="0" x2="-100" y2="0" stroke="#E3A642" stroke-width="2" />
+      <line x1="-56.57" y1="-56.57" x2="-70.71" y2="-70.71" stroke="#E3A642" stroke-width="2" />
+    </g>
+    
+    <!-- 2030 text in the center -->
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="28" text-anchor="middle" fill="#FFFFFF" font-weight="bold">2030</text>
+    
+    <!-- Stylized Palm Tree - Saudi symbol -->
+    <g transform="translate(0, -30) scale(0.4)">
+      <path d="M0,0 L0,60" stroke="#05B583" stroke-width="8" />
+      <path d="M0,-10 C20,-30 40,-20 50,0" stroke="#05B583" stroke-width="3" />
+      <path d="M0,-10 C-20,-30 -40,-20 -50,0" stroke="#05B583" stroke-width="3" />
+      <path d="M0,-5 C15,-20 30,-15 40,-5" stroke="#05B583" stroke-width="3" />
+      <path d="M0,-5 C-15,-20 -30,-15 -40,-5" stroke="#05B583" stroke-width="3" />
+    </g>
+  </g>
+  
+  <!-- Digital Elements representing digital transformation -->
+  <g transform="translate(300, 280)">
+    <!-- Circuit board patterns -->
+    <path d="M-120,0 L120,0" stroke="#05B583" stroke-width="2" fill="none" />
+    <path d="M-100,-20 L-100,20 L-60,20 L-60,-20 Z" stroke="#05B583" stroke-width="2" fill="none" />
+    <path d="M-40,-20 L-40,20 L0,20 L0,-20 Z" stroke="#05B583" stroke-width="2" fill="none" />
+    <path d="M20,-20 L20,20 L60,20 L60,-20 Z" stroke="#05B583" stroke-width="2" fill="none" />
+    <path d="M80,-20 L80,20 L120,20 L120,-20 Z" stroke="#05B583" stroke-width="2" fill="none" />
+    
+    <circle cx="-80" cy="0" r="5" fill="#E3A642" />
+    <circle cx="-20" cy="0" r="5" fill="#E3A642" />
+    <circle cx="40" cy="0" r="5" fill="#E3A642" />
+    <circle cx="100" cy="0" r="5" fill="#E3A642" />
+  </g>
+  
+  <!-- Arabic text for Vision 2030 -->
+  <text x="300" y="50" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#FFFFFF" font-weight="bold">رؤية المملكة 2030</text>
+  
+  <!-- Subtitle about digital transformation -->
+  <text x="300" y="350" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#05B583">التحول الرقمي ركيزة أساسية في رؤية المملكة</text>
+</svg>

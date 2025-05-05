@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Smart Cities Icon for Saudi Context -->
+  
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#165F4C" opacity="0.1" />
+  
+  <!-- City Skyline -->
+  <g transform="translate(100, 130)">
+    <!-- Buildings -->
+    <rect x="-75" y="-80" width="15" height="80" fill="#05B583" />
+    <rect x="-72" y="-77" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-72" y="-67" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-72" y="-57" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-72" y="-47" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-72" y="-37" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-65" y="-77" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-65" y="-67" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-65" y="-57" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-65" y="-47" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-65" y="-37" width="4" height="4" fill="#FFFFFF" />
+    
+    <rect x="-55" y="-60" width="15" height="60" fill="#165F4C" />
+    <rect x="-52" y="-57" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-52" y="-47" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-52" y="-37" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-45" y="-57" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-45" y="-47" width="4" height="4" fill="#FFFFFF" />
+    <rect x="-45" y="-37" width="4" height="4" fill="#FFFFFF" />
+    
+    <rect x="-35" y="-90" width="20" height="90" fill="#05B583" />
+    <rect x="-30" y="-87" width="10" height="5" fill="#FFFFFF" />
+    <rect x="-30" y="-77" width="10" height="5" fill="#FFFFFF" />
+    <rect x="-30" y="-67" width="10" height="5" fill="#FFFFFF" />
+    <rect x="-30" y="-57" width="10" height="5" fill="#FFFFFF" />
+    <rect x="-30" y="-47" width="10" height="5" fill="#FFFFFF" />
+    <rect x="-30" y="-37" width="10" height="5" fill="#FFFFFF" />
+    
+    <rect x="-10" y="-70" width="20" height="70" fill="#165F4C" />
+    <rect x="-5" y="-65" width="10" height="5" fill="#FFFFFF" />
+    <rect x="-5" y="-55" width="10" height="5" fill="#FFFFFF" />
+    <rect x="-5" y="-45" width="10" height="5" fill="#FFFFFF" />
+    <rect x="-5" y="-35" width="10" height="5" fill="#FFFFFF" />
+    
+    <!-- Modern skyscraper in center - representing KAFD or similar Saudi landmark -->
+    <polygon points="15,-110 40,-110 35,-30 20,-30" fill="#05B583" />
+    <rect x="22" y="-100" width="10" height="60" fill="#FFFFFF" opacity="0.3" />
+    <rect x="20" y="-30" width="15" height="30" fill="#165F4C" />
+    <rect x="25" y="-25" width="5" height="5" fill="#FFFFFF" />
+    <rect x="25" y="-15" width="5" height="5" fill="#FFFFFF" />
+    
+    <rect x="45" y="-50" width="15" height="50" fill="#05B583" />
+    <rect x="48" y="-47" width="4" height="4" fill="#FFFFFF" />
+    <rect x="48" y="-37" width="4" height="4" fill="#FFFFFF" />
+    <rect x="48" y="-27" width="4" height="4" fill="#FFFFFF" />
+    <rect x="55" y="-47" width="4" height="4" fill="#FFFFFF" />
+    <rect x="55" y="-37" width="4" height="4" fill="#FFFFFF" />
+    <rect x="55" y="-27" width="4" height="4" fill="#FFFFFF" />
+    
+    <rect x="65" y="-65" width="15" height="65" fill="#165F4C" />
+    <rect x="68" y="-62" width="4" height="4" fill="#FFFFFF" />
+    <rect x="68" y="-52" width="4" height="4" fill="#FFFFFF" />
+    <rect x="68" y="-42" width="4" height="4" fill="#FFFFFF" />
+    <rect x="68" y="-32" width="4" height="4" fill="#FFFFFF" />
+    <rect x="75" y="-62" width="4" height="4" fill="#FFFFFF" />
+    <rect x="75" y="-52" width="4" height="4" fill="#FFFFFF" />
+    <rect x="75" y="-42" width="4" height="4" fill="#FFFFFF" />
+    <rect x="75" y="-32" width="4" height="4" fill="#FFFFFF" />
+  </g>
+  
+  <!-- Digital Network Overlay -->
+  <g stroke="#E3A642" stroke-width="1" fill="none">
+    <circle cx="60" cy="80" r="4" />
+    <circle cx="100" cy="50" r="4" />
+    <circle cx="140" cy="80" r="4" />
+    <circle cx="75" cy="110" r="4" />
+    <circle cx="125" cy="110" r="4" />
+    
+    <line x1="60" y1="80" x2="100" y2="50" />
+    <line x1="100" y1="50" x2="140" y2="80" />
+    <line x1="140" y1="80" x2="125" y2="110" />
+    <line x1="125" y1="110" x2="75" y2="110" />
+    <line x1="75" y1="110" x2="60" y2="80" />
+    <line x1="75" y1="110" x2="100" y2="50" />
+    <line x1="125" y1="110" x2="100" y2="50" />
+  </g>
+  
+  <!-- IoT Nodes -->
+  <g fill="#05B583">
+    <circle cx="60" cy="80" r="2" />
+    <circle cx="100" cy="50" r="2" />
+    <circle cx="140" cy="80" r="2" />
+    <circle cx="75" cy="110" r="2" />
+    <circle cx="125" cy="110" r="2" />
+  </g>
+  
+  <!-- WiFi Signal -->
+  <g transform="translate(100, 30)" stroke="#165F4C" stroke-width="1.5" fill="none">
+    <path d="M-20,10 C-10,0 10,0 20,10" />
+    <path d="M-15,15 C-7,7 7,7 15,15" />
+    <path d="M-10,20 C-5,15 5,15 10,20" />
+    <circle cx="0" cy="25" r="2" fill="#165F4C" />
+  </g>
+  
+  <!-- Title -->
+  <text x="100" y="180" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#165F4C" font-weight="bold">المدن الذكية</text>
+</svg>

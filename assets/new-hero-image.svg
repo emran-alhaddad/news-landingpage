@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Enhanced Saudi digital transformation hero image -->
+  
+  <!-- Background with gradient -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e3f2fd;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Glow filter for digital elements -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <rect x="0" y="0" width="800" height="600" fill="url(#bg-gradient)" />
+  
+  <!-- Abstract Saudi geometric pattern background -->
+  <g opacity="0.15">
+    <path d="M100,100 L700,100 L700,500 L100,500 Z" stroke="#165F4C" stroke-width="2" fill="none" />
+    <path d="M150,150 L650,150 L650,450 L150,450 Z" stroke="#165F4C" stroke-width="2" fill="none" />
+    <path d="M200,200 L600,200 L600,400 L200,400 Z" stroke="#165F4C" stroke-width="2" fill="none" />
+    
+    <!-- Islamic geometric pattern elements -->
+    <g transform="translate(400, 300)">
+      <path d="M0,-200 L173.2,-100 L173.2,100 L0,200 L-173.2,100 L-173.2,-100 Z" fill="none" stroke="#165F4C" stroke-width="1" />
+      <path d="M0,-150 L129.9,-75 L129.9,75 L0,150 L-129.9,75 L-129.9,-75 Z" fill="none" stroke="#165F4C" stroke-width="1" />
+      <path d="M0,-100 L86.6,-50 L86.6,50 L0,100 L-86.6,50 L-86.6,-50 Z" fill="none" stroke="#165F4C" stroke-width="1" />
+    </g>
+  </g>
+
+  <!-- Modern Saudi skyline with iconic buildings -->
+  <g transform="translate(400, 380)">
+    <!-- Kingdom Centre Tower (Riyadh) -->
+    <path d="M-180,-180 L-160,-280 L-140,-180 Z" fill="#165F4C" />
+    <rect x="-170" y="-180" width="20" height="180" fill="#165F4C" />
+    
+    <!-- Faisaliah Tower (Riyadh) -->
+    <path d="M-100,-230 L-80,-290 L-60,-230 L-100,-230" fill="#165F4C" />
+    <rect x="-90" y="-230" width="20" height="230" fill="#165F4C" />
+    
+    <!-- Makkah Royal Clock Tower -->
+    <rect x="-10" y="-300" width="40" height="300" fill="#165F4C" />
+    <rect x="-20" y="-250" width="60" height="40" fill="#165F4C" />
+    <circle cx="10" cy="-220" r="15" fill="#E3A642" stroke="#165F4C" stroke-width="2" />
+    
+    <!-- KAFD (King Abdullah Financial District) -->
+    <rect x="80" y="-200" width="20" height="200" fill="#165F4C" />
+    <rect x="110" y="-250" width="20" height="250" fill="#165F4C" />
+    <rect x="140" y="-180" width="20" height="180" fill="#165F4C" />
+    <path d="M70,-50 L170,-50 L170,-20 L70,-20 Z" fill="#165F4C" />
+  </g>
+  
+  <!-- Digital network and data visualization -->
+  <g opacity="0.9" filter="url(#glow)">
+    <!-- Network nodes -->
+    <circle cx="200" cy="150" r="8" fill="#05B583" />
+    <circle cx="300" cy="200" r="8" fill="#05B583" />
+    <circle cx="400" cy="100" r="8" fill="#05B583" />
+    <circle cx="500" cy="220" r="8" fill="#05B583" />
+    <circle cx="600" cy="180" r="8" fill="#05B583" />
+    <circle cx="250" cy="300" r="8" fill="#05B583" />
+    <circle cx="350" cy="350" r="8" fill="#05B583" />
+    <circle cx="450" cy="280" r="8" fill="#05B583" />
+    <circle cx="550" cy="320" r="8" fill="#05B583" />
+    
+    <!-- Connection lines -->
+    <line x1="200" y1="150" x2="300" y2="200" stroke="#05B583" stroke-width="2" />
+    <line x1="300" y1="200" x2="400" y2="100" stroke="#05B583" stroke-width="2" />
+    <line x1="400" y1="100" x2="500" y2="220" stroke="#05B583" stroke-width="2" />
+    <line x1="500" y1="220" x2="600" y2="180" stroke="#05B583" stroke-width="2" />
+    <line x1="250" y1="300" x2="350" y2="350" stroke="#05B583" stroke-width="2" />
+    <line x1="350" y1="350" x2="450" y2="280" stroke="#05B583" stroke-width="2" />
+    <line x1="450" y1="280" x2="550" y2="320" stroke="#05B583" stroke-width="2" />
+    <line x1="300" y1="200" x2="250" y2="300" stroke="#05B583" stroke-width="2" />
+    <line x1="400" y1="100" x2="450" y2="280" stroke="#05B583" stroke-width="2" />
+    <line x1="500" y1="220" x2="550" y2="320" stroke="#05B583" stroke-width="2" />
+  </g>
+  
+  <!-- Saudi Vision 2030 elements -->
+  <g transform="translate(650, 150)">
+    <circle cx="0" cy="0" r="60" fill="#FFFFFF" stroke="#E3A642" stroke-width="3" />
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#165F4C" font-weight="bold">2030</text>
+    <path d="M-30,-20 L30,20" stroke="#05B583" stroke-width="3" />
+    <path d="M30,-20 L-30,20" stroke="#05B583" stroke-width="3" />
+  </g>
+  
+  <!-- Floating digital devices -->
+  <g transform="translate(200, 430)">
+    <!-- Smartphone -->
+    <rect x="-25" y="-50" width="50" height="100" rx="5" fill="#165F4C" />
+    <rect x="-20" y="-45" width="40" height="90" rx="3" fill="#FFFFFF" />
+    <rect x="-15" y="-40" width="30" height="50" fill="#05B583" opacity="0.8" />
+    <circle cx="0" cy="30" r="8" fill="#E3A642" stroke="#FFFFFF" stroke-width="1" />
+  </g>
+  
+  <g transform="translate(300, 450)">
+    <!-- Tablet -->
+    <rect x="-40" y="-60" width="80" height="120" rx="5" fill="#165F4C" />
+    <rect x="-35" y="-55" width="70" height="110" rx="3" fill="#FFFFFF" />
+    <rect x="-30" y="-50" width="60" height="100" fill="#05B583" opacity="0.5" />
+    <circle cx="0" cy="35" r="8" fill="#E3A642" />
+  </g>
+  
+  <!-- Data flow animation representation -->
+  <g transform="translate(400, 200)">
+    <path d="M-100,50 C-50,-50 50,-50 100,50" stroke="#05B583" stroke-width="4" fill="none" stroke-dasharray="10,5" />
+    <path d="M-100,80 C-50,-20 50,-20 100,80" stroke="#E3A642" stroke-width="3" fill="none" stroke-dasharray="8,4" />
+    <path d="M-100,110 C-50,10 50,10 100,110" stroke="#165F4C" stroke-width="2" fill="none" stroke-dasharray="6,3" />
+  </g>
+  
+  <!-- Arabic title with modern typography -->
+  <g transform="translate(400, 90)">
+    <rect x="-300" y="-40" width="600" height="80" rx="10" fill="rgba(22, 95, 76, 0.9)" />
+    <text x="0" y="15" font-family="Tajawal, Arial, sans-serif" font-size="40" text-anchor="middle" fill="#FFFFFF" font-weight="bold">المملكة نحو المستقبل الرقمي</text>
+  </g>
+</svg>

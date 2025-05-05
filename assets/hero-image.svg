@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Saudi digital transformation hero image -->
+  
+  <!-- Background elements -->
+  <rect x="0" y="0" width="800" height="600" fill="#F8F9FA" />
+  
+  <!-- Decorative pattern inspired by Saudi geometric art -->
+  <g opacity="0.1">
+    <path d="M0,0 L800,600" stroke="#165F4C" stroke-width="2" />
+    <path d="M800,0 L0,600" stroke="#165F4C" stroke-width="2" />
+    <path d="M400,0 L400,600" stroke="#165F4C" stroke-width="2" />
+    <path d="M0,300 L800,300" stroke="#165F4C" stroke-width="2" />
+  </g>
+  
+  <!-- Central digital city illustration -->
+  <g transform="translate(400, 300)">
+    <!-- City skyline silhouette representing Saudi cities -->
+    <path d="M-300,0 L-280,0 L-280,-100 L-260,-100 L-260,0 L-240,0 L-240,-150 L-220,-150 L-220,-50 L-200,-50 L-200,0 
+             L-180,0 L-180,-120 L-160,-120 L-160,-80 L-140,-80 L-140,0 L-120,0 L-120,-180 L-100,-180 L-100,-140 L-80,-140 
+             L-80,-200 L-60,-200 L-60,-100 L-40,-100 L-40,-150 L-20,-150 L-20,0 L0,0 L0,-250 L20,-250 L20,-200 L40,-200 
+             L40,-150 L60,-150 L60,-220 L80,-220 L80,-180 L100,-180 L100,-120 L120,-120 L120,-80 L140,-80 L140,-150 
+             L160,-150 L160,-100 L180,-100 L180,-200 L200,-200 L200,-150 L220,-150 L220,-100 L240,-100 L240,-50 L260,-50 
+             L260,-150 L280,-150 L280,-80 L300,-80 L300,0 Z" 
+          fill="#165F4C" />
+    
+    <!-- Digital network overlay -->
+    <g opacity="0.8">
+      <circle cx="-250" cy="-70" r="5" fill="#05B583" />
+      <circle cx="-180" cy="-90" r="5" fill="#05B583" />
+      <circle cx="-120" cy="-150" r="5" fill="#05B583" />
+      <circle cx="-60" cy="-80" r="5" fill="#05B583" />
+      <circle cx="0" cy="-200" r="5" fill="#05B583" />
+      <circle cx="60" cy="-120" r="5" fill="#05B583" />
+      <circle cx="120" cy="-60" r="5" fill="#05B583" />
+      <circle cx="180" cy="-150" r="5" fill="#05B583" />
+      <circle cx="240" cy="-30" r="5" fill="#05B583" />
+      
+      <line x1="-250" y1="-70" x2="-180" y2="-90" stroke="#05B583" stroke-width="1" />
+      <line x1="-180" y1="-90" x2="-120" y2="-150" stroke="#05B583" stroke-width="1" />
+      <line x1="-120" y1="-150" x2="-60" y2="-80" stroke="#05B583" stroke-width="1" />
+      <line x1="-60" y1="-80" x2="0" y2="-200" stroke="#05B583" stroke-width="1" />
+      <line x1="0" y1="-200" x2="60" y2="-120" stroke="#05B583" stroke-width="1" />
+      <line x1="60" y1="-120" x2="120" y2="-60" stroke="#05B583" stroke-width="1" />
+      <line x1="120" y1="-60" x2="180" y2="-150" stroke="#05B583" stroke-width="1" />
+      <line x1="180" y1="-150" x2="240" y2="-30" stroke="#05B583" stroke-width="1" />
+      <line x1="240" y1="-30" x2="-250" y2="-70" stroke="#05B583" stroke-width="1" />
+    </g>
+    
+    <!-- Palm tree elements for Saudi context -->
+    <g transform="translate(-270, 0) scale(0.5)">
+      <path d="M0,0 L0,-60" stroke="#165F4C" stroke-width="8" />
+      <path d="M0,-60 C10,-70 30,-65 40,-55" stroke="#05B583" stroke-width="4" />
+      <path d="M0,-60 C-10,-70 -30,-65 -40,-55" stroke="#05B583" stroke-width="4" />
+      <path d="M0,-50 C15,-60 25,-50 30,-40" stroke="#05B583" stroke-width="4" />
+      <path d="M0,-50 C-15,-60 -25,-50 -30,-40" stroke="#05B583" stroke-width="4" />
+      <path d="M0,-40 C10,-50 20,-45 25,-35" stroke="#05B583" stroke-width="4" />
+      <path d="M0,-40 C-10,-50 -20,-45 -25,-35" stroke="#05B583" stroke-width="4" />
+    </g>
+    
+    <g transform="translate(270, 0) scale(0.5)">
+      <path d="M0,0 L0,-60" stroke="#165F4C" stroke-width="8" />
+      <path d="M0,-60 C10,-70 30,-65 40,-55" stroke="#05B583" stroke-width="4" />
+      <path d="M0,-60 C-10,-70 -30,-65 -40,-55" stroke="#05B583" stroke-width="4" />
+      <path d="M0,-50 C15,-60 25,-50 30,-40" stroke="#05B583" stroke-width="4" />
+      <path d="M0,-50 C-15,-60 -25,-50 -30,-40" stroke="#05B583" stroke-width="4" />
+      <path d="M0,-40 C10,-50 20,-45 25,-35" stroke="#05B583" stroke-width="4" />
+      <path d="M0,-40 C-10,-50 -20,-45 -25,-35" stroke="#05B583" stroke-width="4" />
+    </g>
+  </g>
+  
+  <!-- Digital devices and tech elements -->
+  <g transform="translate(400, 400)">
+    <!-- Stylized laptop -->
+    <rect x="-80" y="-30" width="160" height="100" rx="5" fill="#05B583" />
+    <rect x="-70" y="-20" width="140" height="80" fill="#FFFFFF" />
+    <rect x="-100" y="70" width="200" height="10" rx="5" fill="#165F4C" />
+    
+    <!-- Data visualization on screen -->
+    <line x1="-50" y1="30" x2="-30" y2="0" stroke="#165F4C" stroke-width="2" />
+    <line x1="-30" y1="0" x2="-10" y2="40" stroke="#165F4C" stroke-width="2" />
+    <line x1="-10" y1="40" x2="10" y2="10" stroke="#165F4C" stroke-width="2" />
+    <line x1="10" y1="10" x2="30" y2="30" stroke="#165F4C" stroke-width="2" />
+    <line x1="30" y1="30" x2="50" y2="5" stroke="#165F4C" stroke-width="2" />
+    
+    <circle cx="-50" cy="30" r="3" fill="#E3A642" />
+    <circle cx="-30" cy="0" r="3" fill="#E3A642" />
+    <circle cx="-10" cy="40" r="3" fill="#E3A642" />
+    <circle cx="10" cy="10" r="3" fill="#E3A642" />
+    <circle cx="30" cy="30" r="3" fill="#E3A642" />
+    <circle cx="50" cy="5" r="3" fill="#E3A642" />
+  </g>
+  
+  <!-- Title text in Arabic style -->
+  <text x="400" y="100" font-family="Arial, sans-serif" font-size="36" text-anchor="middle" fill="#165F4C" font-weight="bold">التحول الرقمي في المملكة</text>
+</svg>

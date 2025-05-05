@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Logo for Raqami (Digital) website -->
+  <circle cx="50" cy="50" r="45" fill="#165F4C" />
+  <circle cx="50" cy="50" r="38" fill="#05B583" />
+  
+  <!-- Digital elements symbolizing technology -->
+  <path d="M30,35 L70,35 L70,65 L30,65 Z" fill="none" stroke="#FFFFFF" stroke-width="2" />
+  
+  <!-- Binary code representing digital -->
+  <text x="40" y="50" font-family="Arial" font-size="10" fill="#FFFFFF">01</text>
+  <text x="55" y="50" font-family="Arial" font-size="10" fill="#FFFFFF">10</text>
+  <text x="40" y="60" font-family="Arial" font-size="10" fill="#FFFFFF">10</text>
+  <text x="55" y="60" font-family="Arial" font-size="10" fill="#FFFFFF">01</text>
+  
+  <!-- Arabic letter "ر" (Ra) for Raqami -->
+  <path d="M50,30 C55,30 60,33 60,40 C60,45 58,48 50,48 L40,48 L40,55 L35,55 L35,42 L50,42 C53,42 55,40 55,38 C55,36 53,35 50,35 L35,35 L35,30 Z" fill="#FFFFFF" />
+</svg>
